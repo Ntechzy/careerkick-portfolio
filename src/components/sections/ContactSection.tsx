@@ -16,6 +16,18 @@ const officeLocations = [
     address: "2nd floor, AA -007, Block A, Ansal Golf Link -1, Greater Noida, Uttar Pradesh 201315",
     href: "https://maps.app.goo.gl/j23DFmnco28ps6T29",
   },
+  {
+    name: "Careerkick Services",
+    branch: "Gorakhpur Branch",
+    address: "2nd floor, 401, LIG 1st St, near Bargadwa, Vikas Nagar, Gorakhpur, Uttar Pradesh 273007",
+    href: "https://maps.app.goo.gl/QzgpEZ2osVwjUfQK9",
+  },
+  {
+    name: "Careerkick Services",
+    branch: "Indore Branch",
+    address: "Apollo Trade center, 402, Geeta Bhawan, Indore, Madhya Pradesh 452001",
+    href: "https://maps.app.goo.gl/DqN6i7ZoypTeLGCT7",
+  },
 ];
 
 const contactItems = [
